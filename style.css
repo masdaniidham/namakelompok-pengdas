@@ -1,0 +1,17 @@
+* {
+	margin-left: 20px
+}
+
+h2 {
+	background-color: #000;
+	color: #fff;
+	text-align: center;
+}
+
+body {
+	background-color: #CDE990;
+}
+
+a : hover {
+	color:#000 ;
+}
